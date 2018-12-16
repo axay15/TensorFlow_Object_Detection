@@ -6,12 +6,19 @@ Video link: https://www.youtube.com/watch?v=MyAOtvwTkT0&list=PLQVvvaa0QuDcNK5GeC
 Step 1: Install Dependencies
 
 pip install tensorflow
+
 pip install lxml
+
 pip install protobuf
+
 pip install opencv
 (if opencv does not install by this method, then download the wheel file from - https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
 and run - 
+
 pip install downloaded_file.whl)
+
+
+
 
 Step 2: Clone or Download the TensorFlow GitHub Repository
 link - https://github.com/tensorflow/models.git
@@ -34,6 +41,7 @@ Step 5: open jupyter notebook from the object_detection directory.
 Step 6: Open the .py file and make the changes as in object_detection_tutorial_webcam.ipynb
 
 lines to add: 26, 27, 198, 201, 222-226
+
 lines to comment/delete: 197, 199, 204, 219, 220
 
 
