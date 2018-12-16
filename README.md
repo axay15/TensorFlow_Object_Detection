@@ -47,6 +47,8 @@ lines to comment/delete: 197, 199, 204, 219, 220
 
 Sample Output: 
 
+![image](https://user-images.githubusercontent.com/4999341/50058484-d31f1180-019e-11e9-9a83-b5bcc67826c9.png)
+
 
 
 
